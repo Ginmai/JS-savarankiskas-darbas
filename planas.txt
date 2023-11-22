@@ -1,0 +1,18 @@
+I diena
++ susikurti repozitorija github'e
++ susikurti projekta lokaliai
++ susikurti API https://mockapi.io/
++ nusibraizyti puslapiu wireframe'us draw.io
+
+II diena
+susikurti pradini puslapi su skelbimu sarasu
+susikurti skelbimu vidini puslapi
+susikurti skelbimu idejimo puslapi
+
+III diena
+susikurti skelbimo idejima i api su JS
+susikurti skelbimo istrinima is API su JS
+
+
+
+

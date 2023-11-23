@@ -5,9 +5,9 @@ I diena
 + nusibraizyti puslapiu wireframe'us draw.io
 
 II diena
-susikurti pradini puslapi su skelbimu sarasu
-susikurti skelbimu vidini puslapi
-susikurti skelbimu idejimo puslapi
++ susikurti pradini puslapi su skelbimu sarasu
++ susikurti skelbimu vidini puslapi
++ susikurti skelbimu idejimo puslapi
 
 III diena
 susikurti skelbimo idejima i api su JS

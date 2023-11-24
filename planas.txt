@@ -10,8 +10,8 @@ II diena
 + susikurti skelbimu idejimo puslapi
 
 III diena
-susikurti skelbimo idejima i api su JS
-susikurti skelbimo istrinima is API su JS
++ susikurti skelbimo idejima i api su JS
++ susikurti skelbimo istrinima is API su JS
 
 
 

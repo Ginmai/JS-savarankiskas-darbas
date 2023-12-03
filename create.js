@@ -36,5 +36,3 @@ const create = function() {
     document.getElementById("create").append(card);  
 
 }
-
-

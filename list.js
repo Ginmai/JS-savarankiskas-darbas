@@ -1,5 +1,10 @@
 const ads = function (ads) {
-  ads.forEach((ad) => {
+
+  const sortedAds = ads.sort((a, b) => {
+    return parseInt(a.price) < parseInt(b.price) ? -1 : 1;
+  });
+
+  sortedAds.forEach((ad) => {
     const link = document.createElement("a");
     link.setAttribute("href", "details.html?ad=" + ad.id);
 
@@ -26,8 +31,6 @@ fetch("https://655db6be9f1e1093c599bbed.mockapi.io/skelbimas")
   .then((res) => {
     return res.json();
   })
-  .then((jsonRes) => {
-    console.log(jsonRes);
-
-    ads(jsonRes);
+  .then((jsonRes) => { 
+    ads(jsonRes); 
   });
